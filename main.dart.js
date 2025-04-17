@@ -67814,7 +67814,7 @@ q=q==null?o:q.bG(B.i)
 q=A.aiD(A.bC("Hire me".toUpperCase(),o,o,o,q,o,o),new A.a48())
 p=A.U(a).p1.at
 p=p==null?o:p.bG(B.i)
-return A.ds(o,A.dh(A.c([B.Ip,new A.E4(new A.Cp(B.z,new A.jB("images/profile.jpg",o,o),80,o),80,0.01,new A.oX(B.dF,B.dE,B.bx,l,o,o),B.zF,o),B.Iq,k,B.ir,s,B.ir,A.eX(A.c([q,A.aiD(A.bC("Download CV 02".toUpperCase(),o,o,o,p,o,o),new A.a49())],r),B.B,B.an,B.C,12)],r),B.B,B.an,B.hD,0),B.t,o,o,new A.dg(o,m,o,o,o,o,B.au),o,o,o,o,new A.ao(0,0,20,0),o,o,n.a.a)}}
+return A.ds(o,A.dh(A.c([B.Ip,new A.E4(new A.Cp(B.z,new A.jB("images/profile.jpg",o,o),80,o),80,0.01,new A.oX(B.dF,B.dE,B.bx,l,o,o),B.zF,o),B.Iq,k,B.ir,s,B.ir,A.eX(A.c([q,A.aiD(A.bC("Download CV".toUpperCase(),o,o,o,p,o,o),new A.a49())],r),B.B,B.an,B.C,12)],r),B.B,B.an,B.hD,0),B.t,o,o,new A.dg(o,m,o,o,o,o,B.au),o,o,o,o,new A.ao(0,0,20,0),o,o,n.a.a)}}
 A.a48.prototype={
 $0(){return A.nR($.PQ())},
 $S:0}
