@@ -82266,7 +82266,7 @@ A.a4D.prototype={
 $1(a){return B.ba.pj(a)},
 $S:102}
 A.a4E.prototype={
-$0(){this.a.yY("https://djethva89.github.io/resume/Dipesh_Jethva_Resume.pdf")},
+$0(){this.a.yY("https://djethva89.github.io/resume/Dipesh_Jethva_Flutter-Developer_Resume.pdf")},
 $S:0}
 A.Kp.prototype={
 f0(a,b){var s,r,q,p=null,o=t.w,n=A.b2(a,p,o).w,m=A.b2(a,p,o).w.a.a<900
