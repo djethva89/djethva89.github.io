@@ -91047,7 +91047,7 @@ p.push(A.ii(A.p0(r,r,r,B.bQ,r,r,!0,r,A.cH(A.b([B.a21,A.aNA(A.fk(r,A.ax("Get in t
 A.ajo.prototype={
 $1(a){var s,r,q="projects",p=this.a
 A.ce().$1("ProjectsPage onVisibilityChanged called! "+A.l(a.gfc())+" && "+p)
-if(a.gfc()>0.3){s=this.b
+if(a.gfc()>0.08){s=this.b
 r=s.br($.nM().gbQ(),t.Oa)
 if(!J.d(r.f,q))r.scM(q)
 if(!p)s.br($.aJ6().gbQ(),t.D9).d4(!0)}},
